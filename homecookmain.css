@@ -41,7 +41,7 @@ ul li:hover::after{
     display: block;
     position: absolute;
     background-color: #edc89d;
-    width: 1250px;
+    width: 100%;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     padding: 12px 16px;
 }
